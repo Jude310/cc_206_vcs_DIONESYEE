@@ -1,3 +1,6 @@
+// Jude Diones: "Peon, people you pee on"
+// Saya Yee: "Potchik"
+
 import 'package:flutter/material.dart';
 
 void main() {
