@@ -1,4 +1,4 @@
-// {Angel Jude Diones}: {potchik} //
+// Jude Diones: "Peon, people you pee on"
 // {Isaiah Louis Emmanuel S. Yee}: {potchik}//
 
 import 'package:flutter/material.dart';
